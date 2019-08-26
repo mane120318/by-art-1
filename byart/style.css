@@ -1,0 +1,149 @@
+*   {
+    margin: 0;
+    padding: 0;
+}
+
+body   {
+    background-color: rgb(255, 255, 255);
+}
+
+/* .b3 {
+    background-color: rgb(43, 90, 220);
+    margin-bottom: 0.5%;
+}
+
+.logo-div   {
+    display: flex;
+    justify-content: center;
+}
+
+.logo-img   {
+    width: 30%;
+    height: 30%;
+}
+
+.a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.paint  {
+    width: 4%;
+    height: 4%;
+}
+
+.pottery    {
+    width: 4%;
+    height: 4%;
+}
+
+.sculpture  {
+    width: 4%;
+    height: 4%;
+}
+
+.icon   {
+    width: 4%;
+    height: 4%;
+} */
+
+.logo-div   {
+    display: flex;
+
+}
+
+.logo   {
+    width: 100%;
+    height: 120%;
+}
+
+.a1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 2%;
+    font-size: 80%;
+}
+
+.xndir  {
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+}
+
+.lucum  {
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+}
+
+.web_sites  {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.insta  {
+    width: 3%;
+    height: 5%;
+}
+
+.fb {
+    width: 4%;
+    height: 6%;
+}
+
+.hart_gorc  {
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+    margin-left: 2%;
+}
+
+.try-div    {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.try    {
+    min-width: 300px;
+    min-height: 44px;
+    border-radius: 0px;
+    color: black;
+    background: rgb(43, 90, 220);
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+    font-size: 150%;
+}
+
+.picture-div    {
+    margin-top: 2%;
+}
+
+.picture    {
+    width: 100%;
+}
+
+.mmm    {
+    font-weight: bold;
+}
+
+.lll    {
+    margin-bottom: 0.5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: bold;
+    font-size: 300%;
+}
+
+.mockup-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.mockup {
+    width: 50%;
+    height: 70%;
+}
+
+.mockup1    {
+    width: 50%;
+    height: 70%;
+}
